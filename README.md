@@ -5,7 +5,7 @@ Meu primeiro contato com o Front-End foi atráves da [Rocketseat](https://app.ro
 
 
 ## Habilidades utilizadas
-Para fazer, utilizei:
+Para fazer, utilizei as seguintes tecnologias
 - JavaScript
 - CSS
 - HTML
